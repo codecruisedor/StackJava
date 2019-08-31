@@ -90,7 +90,7 @@ class stackClass{
            }while (ch!=5);
 
            s1.close();
-           System.exit(0);   
+           System.exit(0);  
 
     }
 }
